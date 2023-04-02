@@ -31,10 +31,6 @@ namespace C_Sharps_OOP_Practice
                 else
                     return _totalvote;
             }
-            private set
-            {
-                _totalvote = value;
-            }
         }
         public void UpVote()
         {
